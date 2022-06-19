@@ -1,3 +1,19 @@
+# AJAX Giphy Party
+
+[Download code](https://curric.springboard.com/software-engineering-career-track/default/exercises/ajax-giphy-party.zip)
+
+It’s time to build something fun with your knowledge of axios and AJAX! For this exercise we will be using the Giphy API! This will require you to use an API key and understand some of the documentation about the API.
+
+## The Application
+Your application should do the following:
+
+- Allow the user to search for a GIF and when the form is submitted, make an AJAX request to the Giphy API and return a single GIF
+- Once the Giphy API has responded with data, append the GIF to the page
+- Allow the user to search for as many GIFs as they would like and keep appending them to the page
+- Allow the user to remove all of the GIFs by clicking a button
+Here is an example of what the application might look like:
+
+
 [![https://curric.springboard.com/software-engineering-career-track/default/exercises/ajax-giphy-party/_images/app.gif](https://curric.springboard.com/software-engineering-career-track/default/exercises/ajax-giphy-party/_images/app.gif)](https://curric.springboard.com/software-engineering-career-track/default/exercises/ajax-giphy-party/_images/app.gif)
 
 Part 1: Building the Form
